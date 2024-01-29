@@ -1,0 +1,2 @@
+Amőba játék készítés HTML és CSS felhasználásával.
+Készítette: Balogh Dominik
